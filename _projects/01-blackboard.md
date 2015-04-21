@@ -1,6 +1,4 @@
 ---
-layout: description
-
 pnum: 1
 
 project_name: Magnetic Didactic Blackboard

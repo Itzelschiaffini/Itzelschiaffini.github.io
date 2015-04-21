@@ -1,5 +1,4 @@
 ---
-layout: description
 
 pnum: 4
 

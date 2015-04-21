@@ -1,5 +1,5 @@
 ---
-layout: description
+
 
 pnum: 10
 
