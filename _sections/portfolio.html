@@ -8,8 +8,9 @@
     </div>
     <div class="row" data-scrollreveal="enter bottom">
       <div class="isotope">
+        {% for project in site.projects %}
         <div class="col-sm-4 portfolio-item web">
-          <a href="#portfolio-modal-1" class="portfolio-link" data-toggle="modal">
+          <a href="#portfolio-modal-{{ project.pnum }}" class="portfolio-link" data-toggle="modal">
             <div class="caption">
               <div class="caption-content">
                 <h3><i class="fa fa-search fa-2x"></i>
@@ -19,116 +20,7 @@
             <img src="assets/img/portfolio/reloj.jpg" class="img-centered" alt="">
           </a>
         </div>
-        <div class="col-sm-4 portfolio-item graphic">
-          <a href="#portfolio-modal-2" class="portfolio-link" data-toggle="modal">
-            <div class="caption">
-              <div class="caption-content">
-                <h3><i class="fa fa-search fa-2x"></i>
-                </h3>
-              </div>
-            </div>
-            <img src="assets/img/portfolio/lampara.jpg" class="img-centered" alt="">
-          </a>
-        </div>
-        <div class="col-sm-4 portfolio-item print">
-          <a href="#portfolio-modal-3" class="portfolio-link" data-toggle="modal">
-            <div class="caption">
-              <div class="caption-content">
-                <h3><i class="fa fa-search fa-2x"></i>
-                </h3>
-              </div>
-            </div>
-            <img src="assets/img/portfolio/pizarron.jpg" class="img-centered" alt="">
-          </a>
-        </div>
-        <div class="col-sm-4 portfolio-item web">
-          <a href="#portfolio-modal-4" class="portfolio-link" data-toggle="modal">
-            <div class="caption">
-              <div class="caption-content">
-                <h3><i class="fa fa-search fa-2x"></i>
-                </h3>
-              </div>
-            </div>
-            <img src="assets/img/portfolio/reloj_pulso.jpg" class="img-centered" alt="">
-          </a>
-        </div>
-        <div class="col-sm-4 portfolio-item graphic">
-          <a href="#portfolio-modal-5" class="portfolio-link" data-toggle="modal">
-            <div class="caption">
-              <div class="caption-content">
-                <h3><i class="fa fa-search fa-2x"></i>
-                </h3>
-              </div>
-            </div>
-            <img src="assets/img/portfolio/lampara_cristal.jpg" class="img-centered" alt="">
-          </a>
-        </div>
-        <div class="col-sm-4 portfolio-item graphic">
-          <a href="#portfolio-modal-6" class="portfolio-link" data-toggle="modal">
-            <div class="caption">
-              <div class="caption-content">
-                <h3><i class="fa fa-search fa-2x"></i>
-                </h3>
-              </div>
-            </div>
-            <img src="assets/img/portfolio/camion.jpg" class="img-centered" alt="">
-          </a>
-        </div>
-        <div class="col-sm-4 portfolio-item graphic">
-          <a href="#portfolio-modal-7" class="portfolio-link" data-toggle="modal">
-            <div class="caption">
-              <div class="caption-content">
-                <h3><i class="fa fa-search fa-2x"></i>
-                </h3>
-              </div>
-            </div>
-            <img src="assets/img/portfolio/origami.jpg" class="img-centered" alt="">
-          </a>
-        </div>
-        <div class="col-sm-4 portfolio-item graphic">
-          <a href="#portfolio-modal-8" class="portfolio-link" data-toggle="modal">
-            <div class="caption">
-              <div class="caption-content">
-                <h3><i class="fa fa-search fa-2x"></i>
-                </h3>
-              </div>
-            </div>
-            <img src="assets/img/portfolio/escaparate.jpg" class="img-centered" alt="">
-          </a>
-        </div>
-        <div class="col-sm-4 portfolio-item graphic">
-          <a href="#portfolio-modal-9" class="portfolio-link" data-toggle="modal">
-            <div class="caption">
-              <div class="caption-content">
-                <h3><i class="fa fa-search fa-2x"></i>
-                </h3>
-              </div>
-            </div>
-            <img src="assets/img/portfolio/propuesta1.jpg" class="img-centered" alt="">
-          </a>
-        </div>
-        <div class="col-sm-4 portfolio-item graphic">
-          <a href="#portfolio-modal-10" class="portfolio-link" data-toggle="modal">
-            <div class="caption">
-              <div class="caption-content">
-                <h3><i class="fa fa-search fa-2x"></i>
-                </h3>
-              </div>
-            </div>
-            <img src="assets/img/portfolio/poster.jpg" class="img-centered" alt="">
-          </a>
-        </div>
-        <div class="col-sm-4 portfolio-item graphic">
-          <a href="#portfolio-modal-11" class="portfolio-link" data-toggle="modal">
-            <div class="caption">
-              <div class="caption-content">
-                <h3><i class="fa fa-search fa-2x"></i>
-                </h3>
-              </div>
-            </div>
-            <img src="assets/img/portfolio/factorsorpresa.jpg" class="img-centered" alt="">
-          </a>
-        </div>
+        {% endfor %}
       </div>
     </div>
   </div>

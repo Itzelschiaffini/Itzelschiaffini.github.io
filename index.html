@@ -6,39 +6,5 @@ layout: default
 
 {% include_relative _sections/header.html %}
 {% include_relative _sections/about.html %}
-
-
-<section id="portfolio" class="portfolio-1 bg-lighter">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center" data-scrollreveal="move 0">
-        <h2>Portfolio</h2>
-        <hr class="primary">
-      </div>
-    </div>
-    <div class="row" data-scrollreveal="enter bottom">
-      <div class="isotope">
-        {% for project in site.projects %}
-        <div class="col-sm-4 portfolio-item web">
-          <a href="#portfolio-modal-{{ project.pnum }}" class="portfolio-link" data-toggle="modal">
-            <div class="caption">
-              <div class="caption-content">
-                <h3><i class="fa fa-search fa-2x"></i>
-                </h3>
-              </div>
-            </div>
-            <img src="assets/img/portfolio/reloj.jpg" class="img-centered" alt="">
-          </a>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-</section>
-
-
-
-
-{% for project in site.projects %}
-{{ project.output }}
-{% endfor %}
+{% include_relative _sections/portfolio.html %}
+{% include_relative _sections/portfolio_detail.html %}
