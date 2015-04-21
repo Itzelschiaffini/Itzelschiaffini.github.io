@@ -3,7 +3,7 @@
  * Copyright 2013-2015 Start Bootstrap Themes
  * To use this theme you must have a license purchased at WrapBootstrap (https://wrapbootstrap.com)
  */
- 
+
 // Functions to run on document ready
 jQuery(document).ready(function() {
 
@@ -82,7 +82,7 @@ jQuery(document).ready(function() {
 
     });
 
-    $("#project-details-carousel").owlCarousel({
+    $(".project-details-carousel").owlCarousel({
 
         navigation: true,
         slideSpeed: 300,

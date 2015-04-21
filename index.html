@@ -8,3 +8,9 @@ layout: default
 {% include_relative _sections/about.html %}
 
 {% include_relative _sections/portfolio.html %}
+{% include_relative _sections/portfolio_detail.html %}
+
+
+{% for description in descriptions %}
+  {%if description.client %}description.client{% else %} holo! {% endif %}
+{% endfor %}
