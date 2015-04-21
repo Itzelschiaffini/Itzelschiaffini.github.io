@@ -7,7 +7,7 @@ materials: Madera, pizarrón magnetico, letras de vinil con imán / Wood, magnet
 date: Otoño 2011 / Autumn 2011
 
 images:
- - pizarron.jpg
+ - /assets/img/portfolio/pizarron.jpg
 
 
 des: Pizarrón magnetico elaborado para los niños en el Hospital del sur de Puebla. Se utilizaron materiales accesibles con el objetivo de que el personal del Hospital fuera capáz de reproducir el pizarrón en otras instancias o crear figuras nuevas. Se utiliza para enseñar a los niños el abecedario, números y colores.
