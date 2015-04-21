@@ -6,7 +6,7 @@ materials: Dos presentaciones, mesa de madera o cobre, con una base de acero con
 date: Otoño 2014 / Autumn 2014
 
 images:
- - http://40.media.tumblr.com/ffeade61b441ae198e52159bda52954b/tumblr_nmzuhaxnR81scp7peo1_500.jpg
+ - https://lh6.googleusercontent.com/-smTovOk28fs/VTXWnpHitgI/AAAAAAAAQj0/G5rJs9m8f3g/w711-h533-no/supercalidad1.jpg
 
 
 des: Mesita auxiliar con cuatro bandejas portátiles y una base de tres patas. Las bandejas cuentan con un orificio que permite apilar sobre la base las bandejas, y al utilizar la bandeja de forma portátil es posible colocar un vaso en el orificio. Cuenta con un espacio en uno de los laterales para colocar objetos y te permite trabajar más cómodamente sobre la superficie.
