@@ -1,6 +1,8 @@
 ---
 layout: description
 
+pnum: 5
+
 project_name: Mueble NOISE
 materials: Madera aglomerada con melamina personalizada de 15mm. Madera de pino de 15mm. Tubo de acero de 1 pulgada.
 date: Otoño 2014 / Autumn 2014

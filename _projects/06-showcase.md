@@ -1,6 +1,8 @@
 ---
 layout: description
 
+pnum: 6
+
 project_name: Majo Zamitiz Showcase
 materials: Madera. Pintura vinílica. Huacales. Tela. Iluminación.
 date: Primavera 2015 / Spring 2015

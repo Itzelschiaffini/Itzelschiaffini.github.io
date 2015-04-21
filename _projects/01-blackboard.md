@@ -1,6 +1,8 @@
 ---
 layout: description
 
+pnum: 1
+
 project_name: Magnetic Didactic Blackboard
 client: Hospital del sur Puebla / Southern Puebla Hospital
 materials: Madera, pizarrón magnetico, letras de vinil con imán / Wood, magnetic blackboard, vinyl magnetic characters

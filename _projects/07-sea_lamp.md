@@ -1,6 +1,8 @@
 ---
 layout: description
 
+pnum: 7
+
 project_name: Sea Lamp
 materials: Botellas de vidrio recicladas / Reclaimed glass bottles.
 date: Primavera 2013 / Spring 2013

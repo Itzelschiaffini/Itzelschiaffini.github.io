@@ -1,10 +1,13 @@
 ---
 layout: description
 
-project_name: Lámpara de tela
-materials: Tela y base de madera.
-date: Otoño 2011 / Autumn 2011
+pnum: 8
 
-des: Lampara elaborada con tela para ejercicio en clase.
+project_name: Perry Truck!
+materials: Pintura automotríz. Gráficos de vinil.
+date: Otoño 2014 / Autumn 2014
+method: Ejercicio de pintura automotríz.
+
+des: Camión Alcancía de Perry el ornitorrinco con acabado automotríz. Y gráficos de vinil.
 den: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, iusto molestiae possimus sint dignissimos! Laudantium, dolore, vel, sint, labore optio perferendis illo dolorum similique soluta eum cupiditate assumenda consequatur maiores.
 ---

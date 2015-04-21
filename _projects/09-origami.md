@@ -1,6 +1,8 @@
 ---
 layout: description
 
+pnum: 9
+
 project_name: Origami
 materials: Lorem Ipsum
 date: Primavera 2013 / Spring 2013
