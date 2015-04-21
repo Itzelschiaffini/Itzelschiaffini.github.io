@@ -9,7 +9,7 @@ date: Primavera 2013 / Spring 2013
 method: Vitrofusión
 
 images:
- - lampara_cristal.jpg
+ - /assets/img/portfolio/lampara_cristal.jpg
 
 
 des: Lampara esférica elaborada con botellas recicladas, moldes de yeso y vitrofusión. La inspiración para la lampara fue el mar, por lo que se emplearon los colores más carácterísticos del oceano y formas que representan algas y burbujas.
