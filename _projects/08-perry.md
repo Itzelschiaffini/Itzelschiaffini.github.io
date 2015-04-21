@@ -10,7 +10,7 @@ method: Ejercicio de pintura automotríz.
 
 
 images:
- - camion.jpg
+ - /assets/img/portfolio/camion.jpg
 
 
 des: Camión Alcancía de Perry el ornitorrinco con acabado automotríz. Y gráficos de vinil.
