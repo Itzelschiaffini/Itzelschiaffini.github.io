@@ -9,6 +9,7 @@
     <div class="row" data-scrollreveal="enter bottom">
       <div class="isotope">
         {% for project in site.projects %}
+
         <div class="col-sm-4 portfolio-item web">
           <a href="#portfolio-modal-{{ project.pnum }}" class="portfolio-link" data-toggle="modal">
             <div class="caption">
@@ -17,7 +18,7 @@
                 </h3>
               </div>
             </div>
-            <img src="assets/img/portfolio/reloj.jpg" class="img-centered" alt="">
+            <img src="assets/img/portfolio/{{project.images[0]}}" class="img-centered" alt="">
           </a>
         </div>
         {% endfor %}
