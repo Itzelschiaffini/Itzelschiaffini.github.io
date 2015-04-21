@@ -27,21 +27,21 @@
           <p>{{ page.des }}</p>
           <h3>Project Description:</h3>
           <p>{{ page.den }}</p>
-        </div>            </div>
-        <div class="row">
-          <div class="col-md-8">
-            <h3>Project Details:</h3>
-            <ul class="list-unstyled project-details">
-              {% if page.client %}<li><strong>Cliente/Client:</strong> {{ page.client }}</li>{% endif %}
-              {% if page.materials %}<li><strong>Meteriales/Materials:</strong> {{ page.materials }}</li>{% endif %}
-              {% if page.method %}<li><strong>Método/Method:</strong> {{ page.method }}</li>{% endif %}
-              {% if page.date %}<li><strong>Fecha/Date:</strong> {{ page.date }}</li>{% endif %}
-            </ul>
-
-          </div>
-
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-8">
+          <h3>Project Details:</h3>
+          <ul class="list-unstyled project-details">
+            {% if page.client %}<li><strong>Cliente/Client:</strong> {{ page.client }}</li>{% endif %}
+            {% if page.service %}<li><strong>Cliente/Client:</strong> {{ page.service }}</li>{% endif %}
+            {% if page.materials %}<li><strong>Meteriales/Materials:</strong> {{ page.materials }}</li>{% endif %}
+            {% if page.method %}<li><strong>Método/Method:</strong> {{ page.method }}</li>{% endif %}
+            {% if page.date %}<li><strong>Fecha/Date:</strong> {{ page.date }}</li>{% endif %}
+          </ul>
 
         </div>
       </div>
     </div>
   </div>
+</div>
