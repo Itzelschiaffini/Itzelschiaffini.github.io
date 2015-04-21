@@ -17,11 +17,12 @@
       <div class="row">
         <div class="col-md-8">
           <div class="project-details-carousel owl-carousel owl-theme">
+            {% for image in project.images %}
 
             <div class="item">
-              <img src="assets/img/portfolio/reloj.jpg" alt="">
+              <img src="assets/img/portfolio/{{image}}" alt="">
             </div>
-
+            {% endfor %}
           </div>
         </div>
         <div class="col-md-4">
