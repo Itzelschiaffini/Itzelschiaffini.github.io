@@ -7,8 +7,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://itzelschiaffini.github.io/" # the base hostname & protocol for your site
 
-twitter_username: jekyllrb
-github_username:  jekyll
+instagram_username: itzegomind
 author: Itzel Schiaffini
 
 # Build settings
