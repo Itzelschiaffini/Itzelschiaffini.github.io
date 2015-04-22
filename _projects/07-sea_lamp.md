@@ -4,7 +4,7 @@
 pnum: 7
 
 project_name: Sea Lamp
-materials: Botellas de vidrio recicladas / Reclaimed glass bottles.
+materials: Botellas de vidrio recicladas / Recycled glass bottles.
 date: Primavera 2013 / Spring 2013
 method: Vitrofusión
 
