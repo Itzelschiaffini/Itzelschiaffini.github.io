@@ -2,7 +2,7 @@
 title: Itzel Schiaffini
 email: issg_92@hotmail.com
 description: >
-  Itzel Schiaffini Portfolio 
+  Itzel Schiaffini Portfolio
   Industrial Desginer
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://itzelschiaffini.github.io/" # the base hostname & protocol for your site
@@ -12,7 +12,7 @@ author: Itzel Schiaffini
 
 # Build settings
 markdown: kramdown
-encoding:     "utf-8"
+encoding: "utf-8"
 
 
 spectrum_theme: "spectrum-turquoise"

@@ -1,0 +1,27 @@
+
+<header class="intro-img intro-dark-bg" style="background-image: url(assets&sol;img&sol;header.jpg)" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="intro-body" data-scrollreveal="move 0">
+        <div class="container">
+            <div class="intro-welcome">Hi, my name is</div>
+            <br>
+            <h1 class="brand-heading">Itzel<br><span class="text-primary">Schiaffini</span></h1>
+            <hr class="light">
+            <div class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <h4>I am an Industrial Design student.</h4>
+                    </div>
+                    <div class="item">
+                        <h4>I have a passion to bring colour everywhere.</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="page-scroll" data-scrollreveal="enter bottom after .6s">
+                <a href="#about" class="btn btn-scroll-light sink">
+                    <i class="fa fa-angle-double-down"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header>
