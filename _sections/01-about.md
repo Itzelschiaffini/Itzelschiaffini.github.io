@@ -16,6 +16,6 @@ about: >
   Connect with me via social media, take a look at my
           <span class="page-scroll"><a href="#portfolio">past work</a>
           </span>, or
-          <span class="page-scroll"><a href="#contact">contact me</a>
-          </span>now if you're ready to get started!
+          <a href="mailto:issg_92@hotmail.com?Subject=Contact%20from%20portfolio" target="_top">contact me</a>
+          now if you're ready to get started!
 ---

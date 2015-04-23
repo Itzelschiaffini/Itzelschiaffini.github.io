@@ -7,7 +7,6 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://itzelschiaffini.github.io/" # the base hostname & protocol for your site
 
-instagram_username: itzegomind
 author: Itzel Schiaffini
 
 # Build settings
@@ -23,3 +22,7 @@ logo_alt: "Itzel Schiaffini"
 collections:
 - projects
 - sections
+
+
+social:
+ - instagram: itzegomind
