@@ -1,28 +1,29 @@
 # Site settings
 title: Itzel Schiaffini
+author: Itzel Schiaffini
 email: issg_92@hotmail.com
+
+social:
+ - instagram: itzegomind
+
 description: >
   Itzel Schiaffini Portfolio
+
   Industrial Desginer
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://itzelschiaffini.github.io/" # the base hostname & protocol for your site
 
-author: Itzel Schiaffini
-
-# Build settings
-markdown: kramdown
-encoding: "utf-8"
-
+# Spectrum Settings #
 
 spectrum_theme: "spectrum-turquoise"
 logo: "assets/img/logo.png"
 logo_alt: "Itzel Schiaffini"
 
+# Jekyll Settings #
+
+url: "http://itzelschiaffini.github.io/" # the base hostname & protocol for your site
+
+markdown: kramdown
+encoding: "utf-8"
 
 collections:
 - projects
 - sections
-
-
-social:
- - instagram: itzegomind
