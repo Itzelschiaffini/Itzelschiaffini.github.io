@@ -4,50 +4,45 @@ layout: default
 
 {% assign about = site.sections[0] %}
 <header class="intro-img intro-dark-bg" style="background-image: url(assets&sol;img&sol;header.jpg)" data-stellar-background-ratio="0.5">
-    <div class="overlay"></div>
-    <div class="intro-body" data-scrollreveal="move 0">
-        <div class="container">
-            <div class="intro-welcome">{{ about.welcome }}</div>
-            <br>
-            <h1 class="brand-heading">{{ about.firstname }}<br><span class="text-primary">{{ about.lastname }}</span></h1>
-            <hr class="light">
-            <div class="carousel slide" data-ride="carousel">
-                <div class="carousel-inner">
-                    {% for tagline in about.taglines %}
-                    <div class="item {% if forloop.first %} active {%endif%}">
-                        <h4>{{ tagline }}</h4>
-                    </div>
-                    {% endfor %}
-                </div>
-            </div>
-            <div class="page-scroll" data-scrollreveal="enter bottom after .6s">
-                <a href="#about" class="btn btn-scroll-light sink">
-                    <i class="fa fa-angle-double-down"></i>
-                </a>
-            </div>
+  <div class="overlay"></div>
+  <div class="intro-body" data-scrollreveal="move 0">
+    <div class="container">
+      <div class="intro-welcome">{{ about.welcome }}</div>
+      <br>
+      <h1 class="brand-heading">{{ about.firstname }}<br><span class="text-primary">{{ about.lastname }}</span></h1>
+      <hr class="light">
+      <div class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          {% for tagline in about.taglines %}
+          <div class="item {% if forloop.first %} active {%endif%}">
+            <h4>{{ tagline }}</h4>
+          </div>
+          {% endfor %}
         </div>
+      </div>
+      <div class="page-scroll" data-scrollreveal="enter bottom after .6s">
+        <a href="#about" class="btn btn-scroll-light sink">
+          <i class="fa fa-angle-double-down"></i>
+        </a>
+      </div>
     </div>
+  </div>
 </header>
 
 <section id="about" class="about-2">
   <div class="container">
     <div class="row" data-scrollreveal="enter left">
       <div class="col-lg-4 col-lg-offset-1">
-        <img src="https://lh3.googleusercontent.com/GdFpSOroDHUWtF6vjCmVr0T88ehcyVPcCgzPCxh38Q3U=s577-no" class="img-circle img-responsive img-centered dark-faded-border" alt="">
+        <img src="{{ about.profile }}" class="img-circle img-responsive img-centered dark-faded-border" alt="">
       </div>
       <div class="col-lg-5 text-center" data-scrollreveal="enter right">
         <h2>About</h2>
         <hr class="primary">
-        <p>Hi there! My name is Itzel Schiaffini and I am an Industrial Design Student in Mexico. I have experience designing furniture, packaging, and have worked with local craftsmen to bring traditional materials to modern spaces.</p>
-        <p>Connect with me via social media, take a look at my
-          <span class="page-scroll"><a href="#portfolio">past work</a>
-          </span>, or
-          <span class="page-scroll"><a href="#contact">contact me</a>
-          </span>now if you're ready to get started!</p>
-        </div>
+        {{ about.about | markdownify }}
       </div>
     </div>
-  </section>
+  </div>
+</section>
 
 
   <aside class="bg-parallax-dark nopadding" data-stellar-background-ratio="0.5">
@@ -66,83 +61,83 @@ layout: default
   </aside>
 
 
-<section id="portfolio" class="portfolio-1 bg-lighter">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center" data-scrollreveal="move 0">
-        <h2>Portfolio</h2>
-        <hr class="primary">
-      </div>
-    </div>
-    <div class="row" data-scrollreveal="enter bottom">
-      <div class="isotope">
-        {% for project in site.projects %}
-
-        <div class="col-sm-4 portfolio-item web">
-          <a href="#portfolio-modal-{{ project.pnum }}" class="portfolio-link" data-toggle="modal">
-            <div class="caption">
-              <div class="caption-content">
-                <h3><i class="fa fa-search fa-2x"></i>
-                </h3>
-              </div>
-            </div>
-            <img src="{{project.images[0]}}" class="img-centered" alt="">
-          </a>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-</section>
-
-{% for project in site.projects %}
-
-<div id="portfolio-modal-{{ project.pnum }}" class="portfolio-modal modal fade" tabindex="-1" role="dialog" aria-hidden="true">
-  <div class="modal-content">
-    <div class="close-modal" data-dismiss="modal">
-      <div class="lr">
-        <div class="rl">
-        </div>
-      </div>
-    </div>
+  <section id="portfolio" class="portfolio-1 bg-lighter">
     <div class="container">
-      <div class="row first">
-        <div class="col-lg-12">
-          <h2 class="project-header">{{ project.project_name }}</h2>
+      <div class="row">
+        <div class="col-lg-12 text-center" data-scrollreveal="move 0">
+          <h2>Portfolio</h2>
+          <hr class="primary">
         </div>
       </div>
-      <div class="row">
-        <div class="col-md-8">
-          <div class="project-details-carousel owl-carousel owl-theme">
-            {% for image in project.images %}
+      <div class="row" data-scrollreveal="enter bottom">
+        <div class="isotope">
+          {% for project in site.projects %}
 
-            <div class="item">
-              <img src="{{image}}" alt="">
-            </div>
-            {% endfor %}
+          <div class="col-sm-4 portfolio-item web">
+            <a href="#portfolio-modal-{{ project.pnum }}" class="portfolio-link" data-toggle="modal">
+              <div class="caption">
+                <div class="caption-content">
+                  <h3><i class="fa fa-search fa-2x"></i>
+                  </h3>
+                </div>
+              </div>
+              <img src="{{project.images[0]}}" class="img-centered" alt="">
+            </a>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {% for project in site.projects %}
+
+  <div id="portfolio-modal-{{ project.pnum }}" class="portfolio-modal modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+      <div class="close-modal" data-dismiss="modal">
+        <div class="lr">
+          <div class="rl">
           </div>
         </div>
-        <div class="col-md-4">
-          <h3>Descripción del proyecto:</h3>
-          <p>{{ project.des }}</p>
-          <h3>Project Description:</h3>
-          <p>{{ project.den }}</p>
-        </div>
       </div>
-      <div class="row">
-        <div class="col-md-8">
-          <h3>Project Details:</h3>
-          <ul class="list-unstyled project-details">
-            {% if project.client %}<li><strong>Cliente/Client:</strong> {{ project.client }}</li>{% endif %}
-            {% if project.service %}<li><strong>Servicio/Service:</strong> {{ project.service }}</li>{% endif %}
-            {% if project.materials %}<li><strong>Meteriales/Materials:</strong> {{ project.materials }}</li>{% endif %}
-            {% if project.method %}<li><strong>Método/Method:</strong> {{ project.method }}</li>{% endif %}
-            {% if project.date %}<li><strong>Fecha/Date:</strong> {{ project.date }}</li>{% endif %}
-          </ul>
+      <div class="container">
+        <div class="row first">
+          <div class="col-lg-12">
+            <h2 class="project-header">{{ project.project_name }}</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-8">
+            <div class="project-details-carousel owl-carousel owl-theme">
+              {% for image in project.images %}
 
+              <div class="item">
+                <img src="{{image}}" alt="">
+              </div>
+              {% endfor %}
+            </div>
+          </div>
+          <div class="col-md-4">
+            <h3>Descripción del proyecto:</h3>
+            <p>{{ project.des }}</p>
+            <h3>Project Description:</h3>
+            <p>{{ project.den }}</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-8">
+            <h3>Project Details:</h3>
+            <ul class="list-unstyled project-details">
+              {% if project.client %}<li><strong>Cliente/Client:</strong> {{ project.client }}</li>{% endif %}
+              {% if project.service %}<li><strong>Servicio/Service:</strong> {{ project.service }}</li>{% endif %}
+              {% if project.materials %}<li><strong>Meteriales/Materials:</strong> {{ project.materials }}</li>{% endif %}
+              {% if project.method %}<li><strong>Método/Method:</strong> {{ project.method }}</li>{% endif %}
+              {% if project.date %}<li><strong>Fecha/Date:</strong> {{ project.date }}</li>{% endif %}
+            </ul>
+
+          </div>
         </div>
       </div>
     </div>
   </div>
-</div>
-{% endfor %}
+  {% endfor %}
