@@ -9,6 +9,8 @@ date: Primavera 2015 / Spring 2015
 
 images:
  - /assets/img/portfolio/propuesta1.jpg
+ - https://lh5.googleusercontent.com/-_h8-qjHP8_Q/VWKNxpwTx9I/AAAAAAAAR2o/KWzCowi8Zpc/w769-h577-no/mesa%2B2.jpg
+ - https://lh3.googleusercontent.com/-tQxPgwWea2w/VVKTsqopZcI/AAAAAAAARhE/kMNuTlxNBWo/w385-h577-no/IMG_4974.JPG
 
 des: Diseño de elemento para restaurantes elabaorada con residuos de mármol y ónix. Proyecto de Tesina Primavera 2015.
 den: Design of an element for restaurants using marble and onyx residues. Thesis Proyect, Spring 2015
