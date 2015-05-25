@@ -3,14 +3,13 @@
 
 pnum: 10
 
-project_name: Sea Lamp
-materials: Botellas de vidrio recicladas / Reclaimed glass bottles.
-date: Primavera 2013 / Spring 2013
-method: Vitrofusión
+project_name: Marble Table
+materials: Residuos de mármol y ónix / marble and onyx residues
+date: Primavera 2015 / Spring 2015
 
 images:
  - /assets/img/portfolio/propuesta1.jpg
 
-des: Lampara esférica elaborada con botellas recicladas, moldes de yeso y vitrofusión. La inspiración para la lampara fue el mar, por lo que se emplearon los colores más carácterísticos del oceano y formas que representan algas y burbujas.
-den: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, iusto molestiae possimus sint dignissimos! Laudantium, dolore, vel, sint, labore optio perferendis illo dolorum similique soluta eum cupiditate assumenda consequatur maiores.
+des: Diseño de elemento para restaurantes elabaorada con residuos de mármol y ónix. Proyecto de Tesina Primavera 2015.
+den: Design of an element for restaurants using marble and onyx residues. Thesis Proyect, Spring 2015
 ---
