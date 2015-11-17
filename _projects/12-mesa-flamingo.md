@@ -1,9 +1,10 @@
 ---
 pnum: 12
 
-project_name: Mesa Flamingo (colab. Noemí Lúa, Shareni de la Rosa)
+project_name: Mesa Flamingo 
 materials: Dos presentaciones, mesa de madera o cobre, con una base de acero con acabado cromado.
 date: Otoño 2014 / Autumn 2014
+colab: Noemí Lúa, Shareni de la Rosa
 
 images:
  - https://lh6.googleusercontent.com/-smTovOk28fs/VTXWnpHitgI/AAAAAAAAQj0/G5rJs9m8f3g/w711-h533-no/supercalidad1.jpg
