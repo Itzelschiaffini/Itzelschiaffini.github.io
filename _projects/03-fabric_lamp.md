@@ -10,5 +10,5 @@ images:
  - /assets/img/portfolio/lampara.jpg
 
 des: Lampara elaborada con tela para ejercicio en clase.
-den: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, iusto molestiae possimus sint dignissimos! Laudantium, dolore, vel, sint, labore optio perferendis illo dolorum similique soluta eum cupiditate assumenda consequatur maiores.
+den: Lamp, class project
 ---
