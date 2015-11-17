@@ -10,6 +10,6 @@ method: Lorem Ipsum
 images:
  - /assets/img/portfolio/origami.jpg
 
-des: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, iusto molestiae possimus sint dignissimos! Laudantium, dolore, vel, sint, labore optio perferendis illo dolorum similique soluta eum cupiditate assumenda consequatur maiores.
-den: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, iusto molestiae possimus sint dignissimos! Laudantium, dolore, vel, sint, labore optio perferendis illo dolorum similique soluta eum cupiditate assumenda consequatur maiores.
+des: Ejercicio de clase. Logo.
+den: Logo. Classwork.
 ---
