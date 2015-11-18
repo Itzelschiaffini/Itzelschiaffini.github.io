@@ -128,6 +128,7 @@ layout: default
           <div class="col-md-8">
             <h3>Project Details:</h3>
             <ul class="list-unstyled project-details">
+              {% if project.colab %}<li><strong>Colaboración/Colab:</strong> {{ project.colab }}</li>{% endif %}
               {% if project.client %}<li><strong>Cliente/Client:</strong> {{ project.client }}</li>{% endif %}
               {% if project.service %}<li><strong>Servicio/Service:</strong> {{ project.service }}</li>{% endif %}
               {% if project.materials %}<li><strong>Meteriales/Materials:</strong> {{ project.materials }}</li>{% endif %}
