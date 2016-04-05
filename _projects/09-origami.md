@@ -4,7 +4,7 @@ pnum: 9
 
 project_name: Origami
 materials: Lorem Ipsum
-date: Primavera 2013 / Spring 2013
+fecha: Primavera 2013 / Spring 2013
 method: Lorem Ipsum
 
 images:

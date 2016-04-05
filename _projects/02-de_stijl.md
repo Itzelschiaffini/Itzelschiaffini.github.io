@@ -4,7 +4,7 @@ pnum: 2
 
 project_name: Reloj De Stijl
 materials: Correa de piel. Pintura para piel. Reloj.
-date: Otoño 2011 / Autumn 2011
+fecha: Otoño 2011 / Autumn 2011
 
 images:
  - /assets/img/portfolio/reloj_pulso.jpg

@@ -5,7 +5,7 @@ pnum: 10
 
 project_name: Marble Table
 materials: Residuos de mármol y ónix / marble and onyx residues
-date: Primavera 2015 / Spring 2015
+fecha: Primavera 2015 / Spring 2015
 
 images:
  - /assets/img/portfolio/propuesta1.jpg

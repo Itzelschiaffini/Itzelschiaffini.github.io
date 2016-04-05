@@ -5,7 +5,7 @@ pnum: 8
 
 project_name: Perry Truck!
 materials: Pintura automotríz. Gráficos de vinil.
-date: Otoño 2014 / Autumn 2014
+fecha: Otoño 2014 / Autumn 2014
 method: Ejercicio de pintura automotríz.
 
 
@@ -15,5 +15,5 @@ images:
  - https://lh5.googleusercontent.com/-7NZcSfLC0Qg/VH8yvSmGGFI/AAAAAAAAK7Y/oqH0pBuTC5Y/w1027-h577-no/2014-12-03.jpg
 
 des: Camión Alcancía color turquesa con acabado automotríz y gráficos de vinil.
-den: Moneybox truck, automotive paint and vinyl graffics. 
+den: Moneybox truck, automotive paint and vinyl graffics.
 ---
