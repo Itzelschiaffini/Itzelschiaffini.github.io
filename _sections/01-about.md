@@ -4,7 +4,7 @@ firstname: Itzel
 lastname: Schiaffini
 
 taglines:
-  - I am an Industrial Design student.
+  - I am an Industrial Designer.
   - I have a passion to bring colour everywhere.
 
 profile: https://lh3.googleusercontent.com/GdFpSOroDHUWtF6vjCmVr0T88ehcyVPcCgzPCxh38Q3U=s577-no
