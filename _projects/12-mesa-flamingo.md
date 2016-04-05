@@ -7,8 +7,9 @@ fecha: Otoño 2014 / Autumn 2014
 colab: Noemí Lúa, Shareni de la Rosa
 
 images:
- - blob:https%3A//drive.google.com/84d7bd59-b8ee-4834-9b52-95d18edb2891
- - blob:https%3A//drive.google.com/a1ab2f48-ed9e-45e6-9ec1-b9ea9d797658
+ - https://goo.gl/A3zoLB
+ - https://goo.gl/uTSEzK
+ - https://goo.gl/DWg3pg
 
 
 des: Mesita auxiliar con cuatro bandejas portátiles y una base de tres patas. Las bandejas cuentan con un orificio que permite apilar sobre la base las bandejas, y al utilizar la bandeja de forma portátil es posible colocar un vaso en el orificio. Cuenta con un espacio en uno de los laterales para colocar objetos y te permite trabajar más cómodamente sobre la superficie.
