@@ -5,9 +5,7 @@
                 <i class="fa fa-bars"></i>
             </button>
             <a class="navbar-brand" href="#page-top">
-                <span class="logo">
-                    <img src="{% if site.logo %}{{ site.logo }}{% else %}{{ "assets/img/logo.png" }}{% endif %}" alt="{{ site.logo_alt }}">
-                </span>
+                <span class="logo"><img src="{{ site.logo }}" alt="logo" style="height:35px;margin:0 10px 0 10px;">{{ site.logo_alt }}</span>
             </a>
         </div>
 

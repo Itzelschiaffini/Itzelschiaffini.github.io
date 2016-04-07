@@ -13,7 +13,7 @@ about: >
   Hi there! My name is Itzel Schiaffini and I am an Industrial Designer in Mexico. I have experience designing furniture, packaging, and have worked with local craftsmen to bring traditional materials to modern spaces.
 
 
-  Connect with me via social media, take a look at my
+  Connect with me via <a href="https://www.instagram.com/itzegomind/">social media,</a> take a look at my
           <span class="page-scroll"><a href="#portfolio">past work</a>
           </span>, or
           <a href="mailto:issg_92@hotmail.com?Subject=Contact%20from%20portfolio" target="_top">contact me</a>
