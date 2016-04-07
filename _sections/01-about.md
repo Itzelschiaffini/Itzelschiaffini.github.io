@@ -16,6 +16,6 @@ about: >
   Connect with me via <a href="https://www.instagram.com/itzegomind/">social media,</a> take a look at my
           <span class="page-scroll"><a href="#portfolio">past work</a>
           </span>, or
-          <a href="mailto:issg_92@hotmail.com?Subject=Contact%20from%20portfolio" target="_top">contact me</a>
+          <a href="#footer" target="_top">contact me</a>
           now if you're ready to get started!
 ---
