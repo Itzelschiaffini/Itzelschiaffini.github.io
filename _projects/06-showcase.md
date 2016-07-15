@@ -9,7 +9,10 @@ fecha: Primavera 2015 / Spring 2015
 client: Majo Zamitiz
 
 images:
- - /assets/img/portfolio/escaparate.jpg
+ - https://goo.gl/wP0OMB
+ - https://goo.gl/qcRgdU
+ - https://goo.gl/rGc8KH
+ - https://goo.gl/cvzRGz
 
 des: Escaparte para zapatos de Majo Zamitiz para la colección Primavera – Verano 2015. Se elaboró una maqueta y diseño de escaparate.
 den: Majo Zamitiz showcase. Spring - Summer 2015 colection.
