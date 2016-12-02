@@ -203,7 +203,7 @@ hr.dark-small {
 }
 @media (min-width: 767px) {
   p {
-    margin: 0 0 30px;
+    margin: 5px 0 5px;
     font-size: 18px;
     line-height: 1.6;
   }
@@ -1412,6 +1412,15 @@ a.light-text:focus {
   margin: 0 0 15px;
   right: 0;
 }
+
+.portfolio-1 .portfolio-item .portfolio-link .portfolio-thumbnail {
+  border: #eee;
+  border-style: solid;
+  padding: 3px;
+  border-radius: 2%;
+  font-family: Helvetica;
+}
+
 .portfolio-1 .portfolio-item .portfolio-link {
   display: block;
   position: relative;
@@ -1419,8 +1428,11 @@ a.light-text:focus {
   margin: 0 auto;
 }
 .portfolio-1 .portfolio-item .portfolio-link .caption {
-  background: rgba(62, 68, 77, 0.9);
+  background: rgba(62, 68, 77, 0.7);
   position: absolute;
+  left: -1.5px;
+  top: -1.5px;
+  border-radius: 2%;
   width: 100%;
   height: 100%;
   opacity: 0;

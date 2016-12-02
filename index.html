@@ -33,7 +33,7 @@ layout: default
   <div class="container">
     <div class="row" data-scrollreveal="enter left">
       <div class="col-lg-4 col-lg-offset-1">
-        <img src="{{ about.profile }}" class="img-circle img-responsive img-centered dark-faded-border" alt="">
+        <img src="{{ about.profile }}" class="img-circle img-responsive img-centered dark-faded-border" alt="">
       </div>
       <div class="col-lg-5 text-center" data-scrollreveal="enter right">
         <h2>About</h2>
@@ -69,22 +69,26 @@ layout: default
           <hr class="primary">
         </div>
       </div>
+
       <div class="row" data-scrollreveal="enter bottom">
         <div class="isotope">
-          {% for project in site.projects %}
 
+          {% for project in site.projects %}
           <div class="col-sm-4 portfolio-item web">
             <a href="#portfolio-modal-{{ project.pnum }}" class="portfolio-link" data-toggle="modal">
-              <div class="caption">
+              <div class="portfolio-thumbnail">
+              <div class="caption"> <!--Search Icon-->
                 <div class="caption-content">
-                  <h3><i class="fa fa-search fa-2x"></i>
-                  </h3>
+                  <h3><i class="fa fa-search fa-2x"></i></h3>
                 </div>
               </div>
               <img src="{{project.images[0]}}" class="img-centered" alt="">
+              <p>{{ project.project_name }}</p>
+            </div>
             </a>
           </div>
           {% endfor %}
+
         </div>
       </div>
     </div>
