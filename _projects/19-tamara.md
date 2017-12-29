@@ -2,12 +2,13 @@
 pnum: 19
 
 project_name: Tamara - Portrait Commission
-Process: Sketch a lápiz, edición digital en Adobe Illustrator. Pencil Sketch and edited digitale with Adobe Illustrator.
 
 images:
- - /assets/img/portfolio/pizarron.jpg
+ - https://goo.gl/8Y4aKs
+ - https://goo.gl/An13xY
+ - https://goo.gl/zKWLmW
+ - https://goo.gl/e4fmKH
 
-
-des: Pizarrón magnetico elaborado para los niños en el Hospital del sur de Puebla. Se utilizaron materiales accesibles con el objetivo de que el personal del Hospital fuera capáz de reproducir el pizarrón en otras instancias o crear figuras nuevas. Se utiliza para enseñar a los niños el abecedario, números y colores.
-den: Magnetic whiteboard, made for a hospital in Puebla. The objective of this product is to teach children the abc, numbers, colors, etc., with a board that can be placed easily at the different rooms of the hospital.
+des: Sketch a lápiz, edición digital en Adobe Illustrator. Se tomaron fotos de referencia de la persona para poder caricaturizarla en una ilustración. Así mismo tomé en cuenta los gustos y la personalidad de la misma, para poder plasmarlo en este caso en las diferentes emociones y la blusa bordada. Se hicieron revisiones con el cliente y se eligio la imagen final (fondo rosa).
+den: Pencil Sketch and edited digitale with Adobe Illustrator. I used picture of the person as reference, in order to make the illustration. I also considered her personality, and her passion for folkloric dance, it is reflected here in her different emotion faces and in her embroidered blouse. There were some revisions before selecting the final image (pink background).
 ---
