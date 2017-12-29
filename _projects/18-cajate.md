@@ -9,6 +9,6 @@ images:
 
 
 
-des: Diseño de caja para té, cortada en láser.
-den: Tea saving box, laser cut.
+des: Diseño de caja para guardar té, cortada en láser. Proyecto personal.
+den: Tea saving box, laser cut. Personal Project.
 ---
