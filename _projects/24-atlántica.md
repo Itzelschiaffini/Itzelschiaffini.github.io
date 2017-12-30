@@ -1,6 +1,5 @@
 ---
-
-pnum: 4
+pnum: 24
 
 project_name: Decoración Atlántica fase 1
 cliente: Atlántica, Escuela de Natación
@@ -11,7 +10,6 @@ images:
  - https://goo.gl/85tyhA
  - https://goo.gl/85tyhA
  - https://goo.gl/u8YQKZ
- - 
  
  
 
