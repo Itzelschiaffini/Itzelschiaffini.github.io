@@ -4,7 +4,7 @@ pnum: 13
 project_name: Empaque para chocolates
 materials: Papel Sulfatado
 fecha: Primavera 2014 / Spring 2014
-categories: empaque embalaje producto
+categories: empaque embalaje producto packaging
 
 images:
  - https://goo.gl/hr018P
