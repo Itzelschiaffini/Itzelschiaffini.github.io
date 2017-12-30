@@ -2,7 +2,9 @@
 pnum: 15
 
 project_name: Scott Jersey
+client: Scott Interlomas
 fecha: Summer 2015
+categories: clothes ropa gráfico
 
 images:
  - https://goo.gl/NKAPyw
