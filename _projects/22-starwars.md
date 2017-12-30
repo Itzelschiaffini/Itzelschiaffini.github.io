@@ -2,8 +2,8 @@
 pnum: 22
 
 project_name: Rey - Fan-art
-materials: 
 fecha: 2016
+categories: ilustración illustration fanart
 
 images:
  - https://goo.gl/49LZdF
