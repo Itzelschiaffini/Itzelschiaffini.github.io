@@ -1,10 +1,11 @@
 ---
 
-pnum: 11
+pnum: 4
 
 project_name: SMB3 Clock
 materials: Ilustración. Pintura acrílica.
 fecha: Otoño 2011 / Autumn 2011
+categories: decoración
 
 images:
  - /assets/img/portfolio/reloj.jpg
