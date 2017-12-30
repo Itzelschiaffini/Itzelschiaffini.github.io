@@ -7,11 +7,12 @@ materials: Corte en Vinil / Vynil cut
 fecha: Otoño 2016 / Autumn 2016
 
 images:
- - https://goo.gl/85tyhA
- - https://goo.gl/85tyhA
- - https://goo.gl/u8YQKZ
- - https://goo.gl/LSvrbd
-
+ - https://goo.gl/SEhhiA
+ - https://goo.gl/Akp9dW
+ - https://goo.gl/Fs963j
+ - https://goo.gl/TG1RU3
+ - https://goo.gl/ZATXCQ
+ 
 
 
 des: Fase 2 de diseño de Imagen para Atlántica. Se hizo el diseño de una cenefa para las ventanas de la recepción y el área de cafetería. Así mismo, se diseño un mural para el interior de la alberca, el cual se corto en vinil y se instaló. El diseño es el resultado de la abstracción de las olas del mar. Se crearon siluetas de nadadores en distintas posiciones, nado de crawl, mariposa, clavado de banco.
