@@ -7,6 +7,7 @@ project_name: Majo Zamitiz Showcase
 materials: Madera. Pintura vinílica. Huacales. Tela. Iluminación.
 fecha: Primavera 2015 / Spring 2015
 client: Majo Zamitiz
+categories: escaparatismo interior decoración efímero
 
 images:
  - https://goo.gl/wP0OMB
