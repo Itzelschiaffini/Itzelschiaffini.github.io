@@ -1,0 +1,19 @@
+---
+pnum: 23
+
+project_name: Dota 2 - Team
+fecha: Summer 2016
+
+images:
+ - https://goo.gl/99cKee
+ - https://goo.gl/ExDzAN
+ - https://goo.gl/tKGWJv
+ - https://goo.gl/PkMT1J
+ - https://goo.gl/VAdMJh
+ - https://goo.gl/c4Njxe
+ 
+ 
+
+des: Ilustración para equipo de Dota2. Se usaron las referencias de los personajes del videojuego para colocar accesorios o características especiales a cada uno de los miembros del equipo. Cada jugador, tiene un rol específico y se usaron los héroes que utlizan en el juego.
+den: Illustration for a small dota2 team. I used characteristics of the heroes each player uses in game. 
+---
