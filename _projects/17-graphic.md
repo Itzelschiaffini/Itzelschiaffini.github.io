@@ -3,6 +3,7 @@ pnum: 17
 
 project_name: Graphic Textile
 fecha: Summer 2015
+categories: gráfico graphic
 
 images:
  - https://goo.gl/6xOajg
