@@ -5,6 +5,7 @@ pnum: 27
 project_name: Lámparas de ónix y Mármol
 materials: Residuos de ónix y mármol. Corte en Mdf
 fecha: Spring 2017
+categories: iluminación corteLaser interior 
 
 images:
  - https://goo.gl/5Wj5f6
