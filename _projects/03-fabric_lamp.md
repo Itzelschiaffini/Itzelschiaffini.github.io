@@ -1,6 +1,6 @@
 ---
 
-pnum: 30
+pnum: 3
 
 project_name: Lámpara de tela
 materials: Tela y base de madera.
