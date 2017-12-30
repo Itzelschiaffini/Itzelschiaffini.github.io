@@ -1,8 +1,9 @@
 ---
+
 pnum: 24
 
 project_name: Decoración Atlántica fase 2
-cliente: Atlántica, Escuela de Natación
+client: Atlántica, Escuela de Natación
 materials: Corte de vinil
 fecha: Otoño 2016 / Fall 2016
 
