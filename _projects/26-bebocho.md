@@ -4,7 +4,7 @@ pnum: 25
 project_name: Joyería BB8
 materials: Plata y aleaciones.
 fecha: Primavera 2017 / Spring 2017
-categories: joyería jewelry product producto 
+categories: joyería jewelry product producto modelado3D 3Dmodel
 
 images:
  - https://goo.gl/TcG72r
