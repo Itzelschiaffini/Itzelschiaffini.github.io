@@ -3,6 +3,7 @@ pnum: 23
 
 project_name: Dota 2 - Team
 fecha: Summer 2016
+categories: commission illustration ilustración
 
 images:
  - https://goo.gl/99cKee
