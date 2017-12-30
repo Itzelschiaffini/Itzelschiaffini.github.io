@@ -2,6 +2,7 @@
 pnum: 20
 
 project_name: Self portrait 2k16
+categories: ilustración illustration
 
 images:
  - https://goo.gl/76to1E
