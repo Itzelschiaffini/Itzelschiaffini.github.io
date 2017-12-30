@@ -2,6 +2,7 @@
 pnum: 19
 
 project_name: Tamara. Portrait Commission
+categories: commission ilustración illustration 
 
 images:
  - https://goo.gl/e4fmKH
