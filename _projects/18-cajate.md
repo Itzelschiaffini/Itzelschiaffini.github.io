@@ -3,6 +3,7 @@ pnum: 18
 
 project_name: Caja para té
 fecha: Spring 2015
+categories: producto product packaging empaque embalaje
 
 images:
  - https://goo.gl/i6wQvi
