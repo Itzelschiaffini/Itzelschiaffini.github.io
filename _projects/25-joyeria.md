@@ -4,6 +4,7 @@ pnum: 25
 project_name: Joyería
 materials: Plata y aleaciones.
 fecha: Otoño 2016 - Primavera 2017 / Autumn 2016 - Spring 2017
+categories: producto product jewelry joyería
 
 images:
  - https://goo.gl/Z4UpcR
