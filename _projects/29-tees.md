@@ -3,6 +3,7 @@ pnum: 29
 
 project_name: Tees
 fecha: 2017
+categories: tees shirt playera gráfico graphic 
 
 images:
  - https://goo.gl/oA2JCY
