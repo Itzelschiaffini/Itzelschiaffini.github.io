@@ -1,7 +1,5 @@
 source "https://rubygems.org"
 
-# gem "jekyll", "~> 3.6.2"
-
 gem "vv5-portfolio"
 
 group :jekyll_plugins do
