@@ -46,7 +46,7 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    vv5-portfolio (0.1.0)
+    vv5-portfolio (0.1.3)
       jekyll (~> 3.6)
       jekyll-seo-tag (~> 2.3)
 
