@@ -1,27 +1,23 @@
-# Site settings
-title: Itzel Schiaffini
-author: Itzel Schiaffini
-email: issg_92@hotmail.com
+title: Tincidunt non
+catchphrase: Proin aliquam, eros eget vulputate
+job: Duis suscipit varius null
+jobtitle: Duis suscipit
+copyright: Copyright © 2017 - Tincidunt Non. All Rights Reserved.
+thanks: Proin aliquam, eros eget vulputate!
+picture: /assets/brand/profile.jpg
 
 social:
- - instagram: itzegomind
+  instagram: itzegomind
+  email: itzegomind@gmail.com
+  tumblr: egomind
+  facebook: itzegomind
+  pinterest: ischiaffini
 
-description: >
-  Itzel Schiaffini. Industrial Desginer
 
-# Spectrum Settings #
 
-spectrum_theme: "spectrum-turquoise"
-logo: "assets/img/logo.svg"
-logo_alt: "Itzel Schiaffini"
-
-# Jekyll Settings #
-
-url: "http://itzelschiaffini.github.io/" # the base hostname & protocol for your site
-
+# Build settings
 markdown: kramdown
-encoding: "utf-8"
+plugins:
+  - jekyll-feed
 
-collections:
-- projects
-- sections
+theme: vv5-portfolio
