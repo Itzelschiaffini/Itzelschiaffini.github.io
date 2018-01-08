@@ -21,3 +21,11 @@ plugins:
   - jekyll-feed
 
 theme: vv5-portfolio
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

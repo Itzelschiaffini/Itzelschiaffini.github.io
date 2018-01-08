@@ -1,11 +1,8 @@
 ---
-
-pnum: 27
-
 project_name: Lámparas de ónix y Mármol
 materials: Residuos de ónix y mármol. Corte en Mdf
 fecha: Spring 2017
-categories: iluminación corteLaser interior 
+categories: iluminación corteLaser interior
 
 images:
  - https://goo.gl/5Wj5f6
@@ -13,9 +10,8 @@ images:
  - https://goo.gl/deKS3N
  - https://goo.gl/2s9zPU
  - https://goo.gl/m4Wxyd
- 
-
-
-des: Diseño de lámparas de ónix y mármol. Placas de mdf cortadas a láser, piezas de residuos de ónix y mármol.
-den: Lamp Design. Onyx and marble residues. Laser cutting.
 ---
+Diseño de lámparas de ónix y mármol. Placas de mdf cortadas a láser, piezas de residuos de ónix y mármol.
+
+
+Lamp Design. Onyx and marble residues. Laser cutting.
