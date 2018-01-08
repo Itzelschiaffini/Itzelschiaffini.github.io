@@ -2,7 +2,7 @@
 project_name: Lámpara de tela
 materials: Tela y base de madera.
 fecha: Otoño 2011 / Autumn 2011
-categories: iluminación interior
+categories: all iluminación interior
 
 images:
  - /assets/img/portfolio/lampara.jpg

@@ -3,7 +3,7 @@ project_name: Atlántica Fase 2
 client: Atlántica, Escuela de Natación / Atlántica, Swimming School
 materials: Corte en Vinil / Vynil cut
 fecha: Otoño 2016 / Autumn 2016
-categories: ImagenCorporativa decoración interior gráfico graphic
+categories: all ImagenCorporativa decoración interior gráfico graphic
 
 images:
  - https://goo.gl/SEhhiA

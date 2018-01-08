@@ -1,7 +1,7 @@
 ---
 project_name: Las Delicias
 fecha: Spring 2016
-categories: decoración ImagenCorporativa
+categories: all decoración ImagenCorporativa
 
 images:
  - https://goo.gl/3rnhoq
