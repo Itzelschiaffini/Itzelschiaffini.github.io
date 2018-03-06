@@ -2,7 +2,7 @@
 project_name: Chicle en el Cerebro - Logo
 client: Alejandro Escobedo
 fecha: Sept 2017
-categories: all logotipo gráfico graphic
+categories: all gráfico/graphic
 
 images:
  - https://goo.gl/59xhY8
