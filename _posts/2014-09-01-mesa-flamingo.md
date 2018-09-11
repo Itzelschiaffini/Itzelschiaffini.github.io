@@ -3,7 +3,7 @@ project_name: Mesa Flamingo
 materials: Dos presentaciones, mesa de madera o cobre, con una base de acero con acabado cromado.
 fecha: Otoño 2014 / Autumn 2014
 colab: Noemí Lúa, Shareni de la Rosa
-categories: all mobiliario interior
+categories: all mobiliario 
 
 images:
  - https://goo.gl/A3zoLB
