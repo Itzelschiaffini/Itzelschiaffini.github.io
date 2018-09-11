@@ -1,7 +1,7 @@
 ---
 project_name: Las Delicias
 fecha: Spring 2016
-categories: all decoración graphic
+categories: all graphic
 
 images:
  - https://goo.gl/3rnhoq
