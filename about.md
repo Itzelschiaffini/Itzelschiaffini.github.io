@@ -7,6 +7,8 @@ lastname: Schiaffini
 taglines:
   - I have a passion to bring color everywhere.
   - I am an Industrial Designer.
+  - Pink Astronaut
+  - May the Creative Force be with you
 ---
 
 Hi there! My name is Itzel Schiaffini and I am an Industrial Designer in Mexico. I have experience designing furniture, packaging, and have worked with local craftsmen to bring traditional materials to modern spaces.
