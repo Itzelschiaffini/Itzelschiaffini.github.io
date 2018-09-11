@@ -3,7 +3,7 @@ project_name: Decoración Atlántica fase 1
 cliente: Atlántica, Escuela de Natación
 materials: Impresión en Vinil
 fecha: Verano 2016 / Summer 2016
-categories: all decoración interior graphic
+categories: all graphic
 
 images:
  - https://goo.gl/85tyhA
