@@ -2,7 +2,7 @@
 project_name: Wide Screen Tables
 client: edis
 fecha: Sept 2018
-categories: all product sketch 3dmodel 
+categories: all product sketch 3Dmodel 
 
 images:
  - https://bit.ly/2IX84Bl
