@@ -4,7 +4,7 @@ fecha: Spring 2015
 categories: all product packaging
 
 images:
- - https://goo.gl/i6wQvi
+ - https://bit.ly/3snh4Cs
 ---
 Diseño de caja para guardar té, cortada en láser. Proyecto personal.
 
