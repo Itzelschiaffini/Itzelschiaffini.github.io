@@ -5,7 +5,7 @@ fecha: Sept 2017
 categories: all graphic
 
 images:
- - https://goo.gl/59xhY8
+ - /assets/img/portfolio/chiclebrain2-01.jpg
 ---
 Imagotipo para Proyecto de club de música llamado Chicle en el Cerebro. Dentro del club se recomiendan caciones semanalmente, y se escoge a la persona que comparte la música por semana aleatoriamente. El nombre viene de que es la música que la gente tiene pegada, o que es "catchy".
 
