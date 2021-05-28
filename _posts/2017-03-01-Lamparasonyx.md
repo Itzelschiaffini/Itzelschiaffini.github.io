@@ -5,10 +5,11 @@ fecha: Spring 2017
 categories: all Lighting
 
 images:
- - https://bit.ly/3bERZgq
- - https://bit.ly/2Ke739B
- - https://bit.ly/38JGAKx
- - https://bit.ly/3bDQDT9
+ - /assets/img/portfolio/lamp1.jpg
+ - /assets/img/portfolio/lamp2.jpg
+ - /assets/img/portfolio/lamp3.jpg
+ - /assets/img/portfolio/lamp4.jpg
+ - /assets/img/portfolio/lamp5.jpg
 ---
 Diseño de lámparas de ónix y mármol. Placas de mdf cortadas a láser, piezas de residuos de ónix y mármol.
 
