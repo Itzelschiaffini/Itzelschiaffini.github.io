@@ -4,7 +4,6 @@ fecha: Spring 2016
 categories: all graphic
 
 images:
- - /assets/img/portfolio/deli1.jpg
  - /assets/img/portfolio/deli2.jpg
  - /assets/img/portfolio/deli3.jpg
  - /assets/img/portfolio/deli4.jpg
