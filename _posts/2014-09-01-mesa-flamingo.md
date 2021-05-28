@@ -6,7 +6,7 @@ colab: Noemí Lúa, Shareni de la Rosa
 categories: all furniture
 
 images:
- - https://bit.ly/3i8fShG
+ - /assets/img/portfolio/Flamingo-01.jpg
  - https://bit.ly/2LMfEk7
  - https://bit.ly/2LK3yYO
 ---
