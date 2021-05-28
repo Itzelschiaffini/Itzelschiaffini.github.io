@@ -4,10 +4,10 @@ fecha: Spring 2016
 categories: all graphic
 
 images:
- - https://bit.ly/38GXyZM
- - https://bit.ly/3bE7ogY
- - https://bit.ly/2LAZM4j
- - https://bit.ly/3ssf5wE
+ - /assets/img/portfolio/deli1.jpg
+ - /assets/img/portfolio/deli2.jpg
+ - /assets/img/portfolio/deli3.jpg
+ - /assets/img/portfolio/deli4.jpg
 ---
 Diseño gráfico y colocación de vinil para stand Las Delicias, Galerias Serdan, Puebla
 
