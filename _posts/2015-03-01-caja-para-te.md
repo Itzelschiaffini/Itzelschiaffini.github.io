@@ -4,7 +4,7 @@ fecha: Spring 2015
 categories: all product packaging
 
 images:
- - https://bit.ly/3snh4Cs
+ - /assets/img/portfolio/cajita.jpg
 ---
 Diseño de caja para guardar té, cortada en láser. Proyecto personal.
 
